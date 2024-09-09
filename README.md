@@ -1,2 +1,2 @@
-# FoundationsOfPureMathsCWK
-Coursework for NTU Foundations of Pure Mathematics module
+# Teaching Resources for NTU Maths modules
+
